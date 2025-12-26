@@ -52,33 +52,30 @@ Our backend services power the platform with:
 ## 🛠️ Tech Stack
 
 ### Frontend Technologies
-- **Framework**: React.js / Next.js
-- **State Management**: Redux / Context API
-- **Styling**: Tailwind CSS / Material-UI / Styled Components
-- **Build Tools**: Webpack / Vite
+- **Framework**: Next.js
+- **State Management**: Context API
+- **Styling**: Tailwind CSS
+- **Build Tools**: Tsx
 - **Type Safety**: TypeScript
-- **Testing**: Jest, React Testing Library
 
 ### Backend Technologies
 - **Runtime**: Node.js
-- **Framework**: Express.js / NestJS
-- **Database**: MongoDB / PostgreSQL / MySQL
-- **ORM**: Mongoose / Prisma / TypeORM
-- **Authentication**: JWT, OAuth 2.0, Passport.js
-- **API**: RESTful APIs, GraphQL
-- **Testing**: Jest, Mocha, Supertest
+- **Framework**: Express.js
+- **Database**: MongoDB
+- **ORM**: Mongoose
+- **Authentication**: JWT, OAuth 2.0
+- **API**: RESTful APIs
 
 ### DevOps & Infrastructure
 - **Version Control**: Git, GitHub
 - **CI/CD**: GitHub Actions
-- **Cloud Hosting**: AWS / Azure / Vercel / Heroku
+- **Cloud Hosting**: Vercel, Render
 - **Containerization**: Docker
 - **Monitoring**: Logger tools and analytics
 
 ### Additional Tools
 - **Code Quality**: ESLint, Prettier
-- **Documentation**: Swagger / OpenAPI
-- **Communication**: WebSocket / Socket.io (for real-time features)
+- **Communication**: Socket.io (for real-time features)
 
 ---
 
