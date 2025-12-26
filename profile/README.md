@@ -93,7 +93,7 @@ Our backend services power the platform with:
 
 ### For Users
 
-1. **Visit our platform**: [Platform URL - Coming Soon]
+1. **Visit our platform**: Platform launching soon - check back for updates!
 2. **Create an account**: Sign up to start your journey
 3. **Start practicing**: Begin with beginner-friendly problems
 4. **Track your progress**: Monitor your improvement over time
@@ -104,7 +104,8 @@ Our backend services power the platform with:
 
 - **Issues & Bugs**: Please report in the respective repository
 - **Feature Requests**: Open a discussion in the relevant repo
-- **General Questions**: Reach out to our team
+- **General Questions**: Start a discussion in our [GitHub Discussions](https://github.com/orgs/placement-ready/discussions)
+- **Community**: Join our community to connect with other learners and professionals
 
 ---
 
