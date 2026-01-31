@@ -1,9 +1,9 @@
-# 🎯 Welcome to Placement Ready (Hiremind)
+# 🎯 Welcome to Hiremind
 
 <div align="center">
 
-![GitHub Org's stars](https://img.shields.io/github/stars/placement-ready?style=for-the-badge&logo=github&logoColor=white&color=yellow)
-![GitHub followers](https://img.shields.io/github/followers/placement-ready?style=for-the-badge&logo=github&logoColor=white&color=blue)
+![GitHub Org's stars](https://img.shields.io/github/stars/HireMind-AI?style=for-the-badge&logo=github&logoColor=white&color=yellow)
+![GitHub followers](https://img.shields.io/github/followers/HireMind-AI?style=for-the-badge&logo=github&logoColor=white&color=blue)
 ![Repos](https://img.shields.io/badge/Repositories-Multiple-brightgreen?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
@@ -11,9 +11,9 @@
 
 ---
 
-## 🚀 What is Placement Ready (Hiremind)?
+## 🚀 What is Hiremind?
 
-**Placement Ready (Hiremind)** is a comprehensive platform designed to help students and job seekers prepare for technical interviews and land their dream jobs. Our mission is to bridge the gap between academic learning and industry requirements by providing hands-on practice, interview preparation resources, and career guidance.
+**Hiremind** is a comprehensive platform designed to help students and job seekers prepare for technical interviews and land their dream jobs. Our mission is to bridge the gap between academic learning and industry requirements by providing hands-on practice, interview preparation resources, and career guidance.
 
 ### 🎓 Key Features
 
@@ -28,7 +28,7 @@
 ## 🏗️ Our Repositories
 
 ### Frontend Repository
-**Repository**: [`placement-ready/frontend`](https://github.com/placement-ready/frontend)
+**Repository**: [`HireMind-AI/frontend`](https://github.com/HireMind-AI/frontend)
 
 Our frontend application provides an intuitive and responsive user interface for:
 - Interactive coding challenges and exercises
@@ -38,7 +38,7 @@ Our frontend application provides an intuitive and responsive user interface for
 - Community forums and discussion boards
 
 ### Backend Repository
-**Repository**: [`placement-ready/backend`](https://github.com/placement-ready/backend)
+**Repository**: [`HireMind-AI/backend`](https://github.com/HireMind-AI/backend)
 
 Our backend services power the platform with:
 - RESTful API architecture
@@ -63,7 +63,7 @@ Our backend services power the platform with:
 - **Framework**: Express.js
 - **Database**: MongoDB
 - **ORM**: Mongoose
-- **Authentication**: JWT, OAuth 2.0
+- **Authentication**: BetterAuth
 - **API**: RESTful APIs
 
 ### DevOps & Infrastructure
@@ -90,7 +90,7 @@ Our backend services power the platform with:
 
 ### For Users
 
-1. **Visit our platform**: Platform launching soon - check back for updates!
+1. **Visit our platform**: [hiremind.harshilgupta.xyz](https://hiremind.harshilgupta.xyz/)
 2. **Create an account**: Sign up to start your journey
 3. **Start practicing**: Begin with beginner-friendly problems
 4. **Track your progress**: Monitor your improvement over time
@@ -101,7 +101,7 @@ Our backend services power the platform with:
 
 - **Issues & Bugs**: Please report in the respective repository
 - **Feature Requests**: Open a discussion in the relevant repo
-- **General Questions**: Start a discussion in our [GitHub Discussions](https://github.com/orgs/placement-ready/discussions)
+- **General Questions**: Start a discussion in our [GitHub Discussions](https://github.com/orgs/HireMind-AI/discussions)
 - **Community**: Join our community to connect with other learners and professionals
 
 ---
@@ -114,7 +114,7 @@ Our projects are open source and available under the MIT License (check individu
 
 <div align="center">
 
-**Made with ❤️ by the Placement Ready Team**
+**Made with ❤️ by the HireMind Team**
 
 *Empowering the next generation of tech professionals*
 
